@@ -1,3 +1,4 @@
+readme_text = """
 # Career-Fair-Python-Simulation
 
 This repository contains a Python-based simulation of a career fair matching system.
@@ -43,4 +44,4 @@ Usage:
     2. Create Employee and Job objects to manage candidate and job data.
     3. Load job postings using network.py.
     4. Use Company to simulate hiring decisions and manage employees.
-
+"""
